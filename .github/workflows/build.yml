@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - alexander-gonzales
+      - main
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
